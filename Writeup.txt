@@ -1,0 +1,4 @@
+Trends observed in Heroes of Pymoli Data:
+1) Males were observed to have the least average purchasing price per gender, despite having the highest amount of purchases per gender.
+2) The average price of an item overall was $3.03, and the average price of a purchase made by each gender (male, female, and other) was $3.02, $3.20, and $3.35, respectively. This could imply that females and people of nondisclosed gender generally bought more than average expensive items.
+3) Males produced the most profit per gender, despire generally buying less during each tranction.
